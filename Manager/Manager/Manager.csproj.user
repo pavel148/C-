@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Logi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Clientinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Controls\EgoldsProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Properties\Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReservationInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplachForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

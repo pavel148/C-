@@ -1,0 +1,1 @@
+﻿delete from Room_tb
